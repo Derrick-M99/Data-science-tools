@@ -18,4 +18,4 @@ The notebook covers the following topics:
 ## How to Use  
 1. Clone the repository or download the Jupyter Notebook:  
    ```sh
-   git clone https://github.com/Derrick-M99/data-science-tools.git
+   git clone https://github.com/Derrick-M99/Data-science-tools.git
